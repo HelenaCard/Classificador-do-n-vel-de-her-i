@@ -1,0 +1,19 @@
+{
+  "name": "classificador-de-nivel-de-heroi",
+  "version": "1.0.0",
+  "description": "Um classificador de nível de herói simples em HTML, CSS e JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "heroi",
+    "classificador",
+    "xp"
+  ],
+  "author": "Helena Cardoso",
+  "license": "ISC"
+}
