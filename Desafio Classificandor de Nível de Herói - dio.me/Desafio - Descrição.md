@@ -8,9 +8,11 @@ Este projeto é um Classificador de Nível de Herói, que determina o nível de 
 
 ## 🚀 Como Usar
 1. Clone o repositório:
+   
 ![alt text](image.png)
 
 2. Navegue até o diretório do projeto:
+   
 ![alt text](image-1.png)
 
 3. Abra o arquivo index.html em seu navegador de preferência.
@@ -52,5 +54,6 @@ A mensagem final deve ser: "O Herói de nome {nome} está no nível de {nivel}".
 
 
 Projeto 
+
 
 ![alt text](image-2.png)
